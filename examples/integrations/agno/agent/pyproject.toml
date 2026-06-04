@@ -11,5 +11,5 @@ dependencies = [
   "uvicorn>=0.34.3",
   "ag-ui-protocol>=0.1.8",
   "packaging>=25.0.0",
-  "python-dotenv>=1.0.0",
+  "python-dotenv>=1.2.2",
 ]
